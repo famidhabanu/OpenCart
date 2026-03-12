@@ -24,7 +24,7 @@ public class TC01_Register extends BaseClass{
 @Test(groups= {"Regression", "Master"})
 public void testRegister() throws InterruptedException {
 	
-	logger.info("Test starting....");
+	logger.info("Test starting nowww....");
 	
 	try {
 	
